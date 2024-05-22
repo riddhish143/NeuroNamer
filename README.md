@@ -40,13 +40,16 @@
 
 ## 📍 Overview
 
-<code>► INSERT-TEXT-HERE</code>
+<code> Developed a Python project utilizing Hugging Face and Google Generative AI (Gemini-pro) to generate unique and viable human names. Employed fine-tuning techniques on user-provided data and extracted top viable names, showcasing skills in Python, NLP, and integration with cutting-edge AI models.</code>
 
 ---
 
 ## 📦 Features
 
-<code>► INSERT-TEXT-HERE</code>
+<code>
+Unique Name Generation
+Name Generation using Family Member Name
+</code>
 
 ---
 
@@ -68,9 +71,9 @@
 
 | File                                                                                                     | Summary                         |
 | ---                                                                                                      | ---                             |
-| [model.ipynb](https://github.com/riddhish143/NeuroNamer/blob/master/model.ipynb)                         | <code>► INSERT-TEXT-HERE</code> |
-| [NLM_project_final.ipynb](https://github.com/riddhish143/NeuroNamer/blob/master/NLM_project_final.ipynb) | <code>► INSERT-TEXT-HERE</code> |
-| [requirements.txt](https://github.com/riddhish143/NeuroNamer/blob/master/requirements.txt)               | <code>► INSERT-TEXT-HERE</code> |
+| [model.ipynb](https://github.com/riddhish143/NeuroNamer/blob/master/model.ipynb)                         | <code>► Run the Model   </code> |
+| [NLM_project_final.ipynb](https://github.com/riddhish143/NeuroNamer/blob/master/NLM_project_final.ipynb) | <code>► Main Code       </code> |
+| [requirements.txt](https://github.com/riddhish143/NeuroNamer/blob/master/requirements.txt)               | <code>► Install dependencies</code> |
 
 </details>
 
@@ -82,7 +85,7 @@
 
 Ensure you have the following dependencies installed on your system:
 
-* **JupyterNotebook**: `version x.y.z`
+**JupyterNotebook**
 
 ### ⚙️ Installation
 
