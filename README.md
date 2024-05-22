@@ -40,16 +40,14 @@
 
 ## 📍 Overview
 
-<code> Developed a Python project utilizing Hugging Face and Google Generative AI (Gemini-pro) to generate unique and viable human names. Employed fine-tuning techniques on user-provided data and extracted top viable names, showcasing skills in Python, NLP, and integration with cutting-edge AI models.</code>
+Developed a Python project utilizing Hugging Face and Google Generative AI (Gemini-pro) to generate unique and viable human names. Employed fine-tuning techniques on user-provided data and extracted top viable names, showcasing skills in Python, NLP, and integration with cutting-edge AI models.
 
 ---
 
 ## 📦 Features
 
-<code>
-Unique Name Generation
-Name Generation using Family Member Name
-</code>
+* **Unique Name Generation**
+* **Name Generation using Family Member Name**
 
 ---
 
@@ -127,9 +125,9 @@ pytest notebook_test.py
 
 ## 🛠 Project Roadmap
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+- [1] `► Install Dependencies using requirement.txt file`
+- [2] `► Run model.ipynb file`
+- [3] `► Use NLM_project_final file to Generate Names`
 
 ---
 
@@ -167,12 +165,6 @@ Contributions are welcome! Here are several ways you can contribute:
 Once your PR is reviewed and approved, it will be merged into the main branch.
 
 </details>
-
----
-
-## 📄 License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
