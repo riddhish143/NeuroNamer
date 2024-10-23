@@ -5,9 +5,6 @@
     <h1 align="center">NEURONAMER</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/riddhish143/NeuroNamer?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/riddhish143/NeuroNamer?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/riddhish143/NeuroNamer?style=flat&color=0080ff" alt="repo-top-language">
